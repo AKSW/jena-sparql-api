@@ -122,7 +122,7 @@
 		<!-- <jetty.version>9.4.8.v20171121</jetty.version> -->
 		<!-- <jetty.version>9.4.18.v20190429</jetty.version> -->
 		<!-- <jetty.version>11.0.0</jetty.version> this is java 11+ only -->
-		<jetty.version>9.4.35.v20201120</jetty.version>
+		<jetty.version>9.4.41.v20210516</jetty.version>
 
 		<!-- <jgrapht.version>1.1.0</jgrapht.version> -->
 
